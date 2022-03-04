@@ -1,0 +1,22 @@
+{
+  "name": "githubsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jslauter/githubSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jslauter/githubSearch/issues"
+  },
+  "homepage": "https://github.com/jslauter/githubSearch#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
